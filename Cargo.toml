@@ -8,4 +8,4 @@ edition = "2018"
 futures = "0.3"
 lambda = { git = "https://github.com/awslabs/aws-lambda-rust-runtime" }
 serde_json = "1"
-tokio = { version = "=0.2.13", features = ["time", "macros"] }
+tokio = { version = "=0.2.14", features = ["time", "macros"] }
